@@ -1,1 +1,1 @@
-# Count-Down-Timer-by-JavaScript
+# Count-Down-Timer-by-JavaScript for DEVOIC
