@@ -67,8 +67,6 @@ mark{
 
 }
 
-
-
 @media(max-width:700px){
 
     .content h1{
@@ -87,6 +85,5 @@ mark{
     .cntdwn div{
             margin: 1rem auto;
             max-width: 150px;
-        }
-        
+        }     
 }
